@@ -1,0 +1,17 @@
+body{
+    background-color:deeppink;
+    color: black;
+    font-family: "playwrite cuba", sans-serif;
+    display: flex;
+    justify-content: center;
+    aling-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button{
+    background-color: rgb(235, 104, 126);
+    color: black;
+    font-family: "playwrite cuba", sans-serif;
+}
